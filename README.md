@@ -2,12 +2,12 @@
 - 🔭 I’m currently studying in Yun Nan University
 - 🌱 I’m currently researching machine learning based graph embedding.
 My repositories are primarily distributed among the following six organizations：
-In [Undergraduate-experiments](https://github.com/orgs/Undergraduate-experiments/repositories), I have stored several important experiment codes and explanations from my undergraduate studies.
-In [Postgraduate-experiments](https://github.com/orgs/Postgraduate-experiment/repositories), there is a crawler project from my postgraduate studies. 
-In [Mckinleylu-ANNS-Research](https://github.com/orgs/Mckinleylu-ANNS-Research/repositories), I have forked code for state-of-the-art methods in the field of approximate nearest neighbor search. 
-In [Mckinleylu-Embedding-Research](https://github.com/orgs/Mckinleylu-Embedding-Research/repositories), I have forked code for state-of-the-art methods in the field of graph embedding. 
-In [MckinleyluObsian](https://github.com/orgs/MckinleyluObsian/repositories), I save my personal study notes (the repos are not visible). 
-In [Mckinleyly-Tools](https://github.com/orgs/Mckinleylu-Tools/repositories), I have forked various practical tools.
+* In [Undergraduate-experiments](https://github.com/orgs/Undergraduate-experiments/repositories), I have stored several important experiment codes and explanations from my undergraduate studies.
+* In [Postgraduate-experiments](https://github.com/orgs/Postgraduate-experiment/repositories), there is a crawler project from my postgraduate studies. 
+* In [Mckinleylu-ANNS-Research](https://github.com/orgs/Mckinleylu-ANNS-Research/repositories), I have forked code for state-of-the-art methods in the field of approximate nearest neighbor search. 
+* In [Mckinleylu-Embedding-Research](https://github.com/orgs/Mckinleylu-Embedding-Research/repositories), I have forked code for state-of-the-art methods in the field of graph embedding. 
+* In [MckinleyluObsian](https://github.com/orgs/MckinleyluObsian/repositories), I save my personal study notes (the repos are not visible). 
+* In [Mckinleyly-Tools](https://github.com/orgs/Mckinleylu-Tools/repositories), I have forked various practical tools.
 <!--
 **McKinleyLu/McKinleyLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
