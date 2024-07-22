@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently studying in Yun Nan University
-- 🌱 I’m currently researching machine learning based graph embedding.
 My repositories are primarily distributed among the following six organizations：
 * In [Undergraduate-experiments](https://github.com/orgs/Undergraduate-experiments/repositories), I have stored several important experiment codes and explanations from my undergraduate studies.
 * In [Postgraduate-experiments](https://github.com/orgs/Postgraduate-experiment/repositories), there is a crawler project from my postgraduate studies. 
